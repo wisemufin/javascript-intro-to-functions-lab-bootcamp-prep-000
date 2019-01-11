@@ -34,4 +34,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-console.log(`${mixedCase}`)
+console.log(sayHiToGrandma)
